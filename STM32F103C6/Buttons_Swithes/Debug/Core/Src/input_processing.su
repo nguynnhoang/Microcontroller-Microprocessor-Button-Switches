@@ -1,0 +1,9 @@
+input_processing.c:82:6:fsm_for_button_processing	16	static
+input_processing.c:101:6:fsm_for_mode_processing	8	static
+input_processing.c:162:5:is_button_pressed_and_released	16	static
+input_processing.c:173:6:clear_all_light	8	static
+input_processing.c:183:6:prepare_for_modified_mode	24	static
+input_processing.c:194:6:displayTrafficLight	8	static
+input_processing.c:319:6:blinkingLight	16	static
+input_processing.c:344:6:updateLightPeriod	16	static
+input_processing.c:372:6:prepare_for_DISPLAY	8	static

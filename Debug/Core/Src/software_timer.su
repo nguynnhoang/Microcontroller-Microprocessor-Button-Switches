@@ -1,0 +1,12 @@
+software_timer.c:28:6:init_timer	32	static
+software_timer.c:55:9:setMilTimer	16	static
+software_timer.c:68:9:setSecTimer	16	static
+software_timer.c:81:9:milFlag	16	static
+software_timer.c:88:9:secFlag	16	static
+software_timer.c:96:14:milCounter	16	static
+software_timer.c:105:14:secCounter	16	static
+software_timer.c:114:6:resetMilFlag	16	static
+software_timer.c:122:6:resetSecFlag	16	static
+software_timer.c:130:6:controlMilTimer	16	static
+software_timer.c:136:6:controlSecTimer	16	static
+software_timer.c:142:6:HAL_TIM_PeriodElapsedCallback	24	static
